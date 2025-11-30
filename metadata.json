@@ -1,0 +1,5 @@
+{
+  "name": "Image  合成 Studio",
+  "description": "A professional AI image processing tool allowing multi-image upload, content selection (cropping), and prompt-based synthesis, editing, and stitching using Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
